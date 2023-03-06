@@ -1,1 +1,1 @@
-# School_Web-page store data
+# School_Web-page frontend
